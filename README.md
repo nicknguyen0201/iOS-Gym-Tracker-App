@@ -28,16 +28,14 @@ An iOS app that tracks your workout sets, reps, what workout you do that day lik
 
 **Required Must-have Stories**
 
-###Workout Logging
+### Workout Logging
 - As a user, I want to create a new workout session so that I can start recording my exercises for the day.
 - As a user, I want to add an exercise to my session (e.g. Bench Press, Squat) so that I can specify what I’m working on.
 - As a user, I want to record sets and reps (and optionally weight) for each exercise so that I can track my progress accurately.
 - As a user, I want to view a summary of today’s session (total sets, reps, volume) so that I can see how much I’ve done at a glance.
 - As a user, I want to edit or delete a recorded set in case I made a mistake or want to correct my log.
-Session Management
-- As a user, I want to name or tag each session (e.g. “Leg Day”, “Chest & Triceps”) so I can easily find and differentiate past workouts. 
 - As a user, I want to view a list of my past workout sessions so that I can review my history.
-###Data Persistence & Sync
+### Data Persistence & Sync
 -As a user, I want my workout data to persist across app launches so that I never lose my logs.
 
 **Optional Nice-to-have Stories**
