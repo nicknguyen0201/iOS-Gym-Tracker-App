@@ -15,7 +15,6 @@ An iOS app that tracks your workout sets, reps, what workout you do that day lik
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 - **Category:** Health & Fitness
 - **Mobile:** Mobile is important because people can carry their phone to the gym and record their work instantly
 - **Story:** Allow user to keep track of their workout and see their improvements
@@ -29,8 +28,7 @@ An iOS app that tracks your workout sets, reps, what workout you do that day lik
 
 **Required Must-have Stories**
 
-
-####Workout Logging
+###Workout Logging
 - As a user, I want to create a new workout session so that I can start recording my exercises for the day.
 - As a user, I want to add an exercise to my session (e.g. Bench Press, Squat) so that I can specify what I’m working on.
 - As a user, I want to record sets and reps (and optionally weight) for each exercise so that I can track my progress accurately.
@@ -52,12 +50,12 @@ Social & Sharing
 
 ### 2. Screen Archetypes
 
-- [ ] [Workout plans menu]
+- [] Workout plans menu
 * As a user, I want to choose what I will be working on today, like legs, arms, etc
-* ...
-[] [Options for excercises to do on that day]
+
+[] Options for excercises to do on that day
 * As a user, I want to start working on the excercises I have for this day like bench press on chest day
-* ...
+
 
 ### 3. Navigation
 
@@ -69,12 +67,12 @@ Social & Sharing
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [Workout Plan Menu]
+- [ ] Workout Plan Menu
 * Go to detailed excercises menu
-* ...
-- [ ] [Detailed excercises]
+
+- [ ] Detailed excercises
 * Go to counter to record reps
-* ...
+- [ ] Reps/Set Counter
 
 ## Wireframes
 
