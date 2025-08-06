@@ -50,10 +50,10 @@ Social & Sharing
 
 ### 2. Screen Archetypes
 
-- [] Workout plans menu
+- [ ] Workout plans menu
 * As a user, I want to choose what I will be working on today, like legs, arms, etc
 
-[] Options for excercises to do on that day
+[ ] Options for excercises to do on that day
 * As a user, I want to start working on the excercises I have for this day like bench press on chest day
 
 
