@@ -29,29 +29,29 @@ An iOS app that tracks your workout sets, reps, what workout you do that day lik
 **Required Must-have Stories**
 
 ### Workout Logging
-- As a user, I want to create a new workout session so that I can start recording my exercises for the day.
-- As a user, I want to add an exercise to my session (e.g. Bench Press, Squat) so that I can specify what I’m working on.
-- As a user, I want to record sets and reps (and optionally weight) for each exercise so that I can track my progress accurately.
-- As a user, I want to view a summary of today’s session (total sets, reps, volume) so that I can see how much I’ve done at a glance.
-- As a user, I want to edit or delete a recorded set in case I made a mistake or want to correct my log.
-- As a user, I want to view a list of my past workout sessions so that I can review my history.
+[x] As a user, I want to create a new workout session so that I can start recording my exercises for the day.
+[x] As a user, I want to add an exercise to my session (e.g. Bench Press, Squat) so that I can specify what I’m working on.
+[x] As a user, I want to record sets and reps (and optionally weight) for each exercise so that I can track my progress accurately.
+[x] As a user, I want to view a summary of today’s session (total sets, reps, volume) so that I can see how much I’ve done at a glance.
+[x] As a user, I want to edit or delete a recorded set in case I made a mistake or want to correct my log.
+[x] As a user, I want to view a list of my past workout sessions so that I can review my history.
 ### Data Persistence & Sync
--As a user, I want my workout data to persist across app launches so that I never lose my logs.
+[x] As a user, I want my workout data to persist across app launches so that I never lose my logs.
 
 **Optional Nice-to-have Stories**
 
-- Progress Visualization: As a user, I want to see charts of my volume, max weight, and rep count over time so that I can visualize my progress.
-- Notifications & Reminders: As a user, I want to get reminder of going to the gym as well as what plan should I be doing today
+[] Progress Visualization: As a user, I want to see charts of my volume, max weight, and rep count over time so that I can visualize my progress.
+[] Notifications & Reminders: As a user, I want to get reminder of going to the gym as well as what plan should I be doing today
 Social & Sharing
-- As a user, I want to share a summary of my workout to social media or messaging apps so that I can celebrate milestones.
+[] As a user, I want to share a summary of my workout to social media or messaging apps so that I can celebrate milestones.
 
 
 ### 2. Screen Archetypes
 
-- [ ] Workout plans menu
+- [x] Workout plans menu
 * As a user, I want to choose what I will be working on today, like legs, arms, etc
 
-[ ] Options for excercises to do on that day
+[x] Options for excercises to do on that day
 * As a user, I want to start working on the excercises I have for this day like bench press on chest day
 
 
@@ -65,32 +65,16 @@ Social & Sharing
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Workout Plan Menu
+- [x] Workout Plan Menu
 * Go to detailed excercises menu
 
-- [ ] Detailed excercises
+- [x] Detailed excercises
 * Go to counter to record reps
-- [ ] Reps/Set Counter
+- [x] Reps/Set Counter
 
 ## Wireframes
 
 [Wireframe]
 <img src="Screenshot_20250805_130909_OneNote.jpg" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
-## Schema 
-
-[This section will be completed in Unit 9]
-
-### Models
-
-[Add table of models]
-
-### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+[Video Loom]()
