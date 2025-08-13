@@ -77,4 +77,4 @@ Social & Sharing
 [Wireframe]
 <img src="Screenshot_20250805_130909_OneNote.jpg" width=600>
 
-[Video Loom]()
+[Video Loom](https://www.loom.com/share/66539f3809f94e5ca14aa44c7801f192?sid=b411105c-bf00-45fe-9854-d0aa8ff56a88)
